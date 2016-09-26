@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "500186242788",
+    "firebase_url": "https://sign-in-firebase.firebaseio.com",
+    "project_id": "sign-in-firebase",
+    "storage_bucket": "sign-in-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500186242788:android:14b3afbaa626a8e7",
+        "android_client_info": {
+          "package_name": "tien.edu.hutech.signinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500186242788-0h6s1hegeb3k4g0pt3nh8iund99gr6kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVVjB1TPtUXzkCWbgkDoswXZuE2ffqHGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
